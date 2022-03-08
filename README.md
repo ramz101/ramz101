@@ -1,7 +1,4 @@
 Hi there 👋
- 
- 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently cloning UI screens with flutter 
 - 🌱 I’m currently learning amazon web services and adobe lightroom
