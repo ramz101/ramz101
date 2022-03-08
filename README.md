@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **ramz101/ramz101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramz101&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramz101&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramz101&theme=github_dark)
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=ramz101&theme=dracula&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramz101&theme=github_dark)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ramz101&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramz101&theme=github_dark)
+
